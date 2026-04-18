@@ -1,3 +1,5 @@
+![Agro Sage Cover](aseets/Gemini.png)
+
 # AGRO SAGE 🌱
 **Smart Crop Recommendation System Using Machine Learning**
 
@@ -7,6 +9,17 @@
 **Project Status:** ✅ **COMPLETED**  
 **Created By:** Parth B Mistry  
 **Live App:** [Hugging Face Space](https://huggingface.co/spaces/pmistryds/Agro-Sage)
+
+---
+
+## 📸 App Interface Showcase
+
+<p align="center">
+  <img src="Demo/Shots/Demo.png" width="48%">
+  <img src="Demo/Shots/Predict.png" width="48%">
+  <img src="Demo/Shots/History.png" width="48%">
+  <img src="Demo/Shots/Feedback.png" width="48%">
+</p>
 
 ---
 
