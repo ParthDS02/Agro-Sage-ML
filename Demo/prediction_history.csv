@@ -1,0 +1,2 @@
+timestamp,nitrogen,phosphorus,potassium,temperature,humidity,ph,rainfall,predicted_crop,confidence
+2026-03-02T06:31:48.961456,56.0,55.0,35.0,35.04,76.0,6.53,98.0,papaya,25.0
