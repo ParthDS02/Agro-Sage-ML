@@ -584,13 +584,6 @@ streamlit run agro_sage_app.py
 
 **Parth B Mistry**
 
----
-
-## 📝 License
-
-Open source for educational purposes
-
----
 
 ## 🙏 Acknowledgments
 
